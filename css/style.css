@@ -26,7 +26,7 @@ header
     padding-right: 225px;
 }
 
-#primary-btn{
+.primary-btn{
     height: 65px;
     color: #005FAC;
     font-size: 25px;
@@ -113,3 +113,26 @@ header
     padding-left: 3px;
 }
 /* plans section style end */
+
+/* contact section style start */
+#contact{
+    height: 300px;
+    margin: 75px 175px 57px 225px;
+    background-image:linear-gradient(to right, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(../assets/images/watch.png);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+
+#contact-title{
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 35px;
+    padding-top: 95px;
+    padding-left: 75px;
+}
+
+#contact-btn{
+    margin-top: 45px;
+    margin-left: 75px;
+}
+/* contact section style end */
