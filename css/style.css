@@ -63,3 +63,53 @@ header
     padding: 415px 245px 125px 0px;
 }
 /* story section style end */
+
+/* plans section style start */
+#heading-style{
+    text-align: center;
+    font-weight: 1200;
+    font-size: 75px;
+}
+
+#plans{
+    display: flex;
+    justify-content: space-between;
+}
+
+#plans ul{
+    list-style: none;
+    padding: 95px;
+}
+
+#web-sym{
+    padding-left: 57px;
+}
+
+#js-sym{
+    padding-left: 13px;
+}
+
+#smok-sym{
+    padding-left: 39px;
+}
+
+#ecom-sym{
+    padding-left: 15px;
+}
+
+#web-text{
+    padding-left: 45px;
+}
+
+#js-text{
+    padding-left: 2px;
+}
+
+#smok-text{
+    padding-left: 31px;
+}
+
+#ecom-text{
+    padding-left: 3px;
+}
+/* plans section style end */
