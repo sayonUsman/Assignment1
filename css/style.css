@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    border: 0;
+    font-family: 'Work Sans';
+}
+
+header
+{
+    width: 1600px;
+    height: 808px;
+    color: white;
+    background-image: url(../assets/images/banner/banner3.png);
+}
+
+#header-title{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: right;
+    padding-top: 205px;
+    padding-right: 225px;
+}
+
+#header-text{
+    text-align: right;
+    padding-right: 225px;
+}
+
+#header-btn{
+    text-align: right;
+    padding-right: 225px;
+}
+
+#primary-btn{
+    height: 65px;
+    color: #005FAC;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px 25px;
+    border-radius: 5px; 
+}
