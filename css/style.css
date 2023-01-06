@@ -4,6 +4,7 @@
     font-family: 'Work Sans';
 }
 
+/* header style start */
 header
 {
     width: 1600px;
@@ -25,11 +26,6 @@ header
     padding-right: 225px;
 }
 
-#header-btn{
-    text-align: right;
-    padding-right: 225px;
-}
-
 #primary-btn{
     height: 65px;
     color: #005FAC;
@@ -38,3 +34,32 @@ header
     padding: 0px 25px;
     border-radius: 5px; 
 }
+
+#header-btn{
+    text-align: right;
+    padding-right: 225px;
+}
+/* header style end */
+
+/* story section style start */
+#story{
+    display: flex;
+}
+
+#sad-img{
+    padding: 125px 145px;
+}
+
+#failure-story h2{
+    font-weight: 700;
+    font-size: 35px;
+}
+
+#failure-story p{
+    padding-bottom: 15px;
+}
+
+#failure-story{
+    padding: 415px 245px 125px 0px;
+}
+/* story section style end */
