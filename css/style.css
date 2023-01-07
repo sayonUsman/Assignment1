@@ -24,6 +24,7 @@ header
 #header-text{
     text-align: right;
     padding-right: 225px;
+    padding-top: 19px;
 }
 
 .primary-btn{
@@ -38,6 +39,7 @@ header
 #header-btn{
     text-align: right;
     padding-right: 225px;
+    padding-top: 58px;
 }
 /* header style end */
 
@@ -193,7 +195,7 @@ footer{
 
 #subscribe h1{
     font-weight: 700;
-    font-size: 45px;
+    font-size: 27px;
 }
 
 #email{
@@ -201,7 +203,7 @@ footer{
     color: #FFFFFF;
     border: 1px solid #FFFFFF;
     border-radius: 5px;
-    padding: 15px 15px 10px;
+    padding: 15px 105px 10px 15px;
     margin-top: 29px;
 }
 
