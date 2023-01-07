@@ -140,7 +140,7 @@ header
 /* visit section style start */
 #visit{
     height: 300px;
-    margin: 75px 175px 75px 225px;
+    margin: 75px 175px 195px 225px;
     background-image:linear-gradient(to right, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
     background-repeat: no-repeat;
     border: 3px solid black;;
@@ -162,3 +162,53 @@ header
     color: black;
 } 
 /* visit section style end */
+
+/* footer style start */
+footer{
+    display: flex;
+    width: 1600px;
+    height: 575px;
+    color: white;
+    background-color: black;
+}
+
+#footer-content{
+    padding-top: 145px;
+    padding-left: 175px;
+}
+
+#footer-content h1{
+    font-weight: 700;
+    font-size: 45px;
+}
+
+#footer-content a{
+    padding-right: 15px;
+}
+
+#subscribe{
+    padding-top: 145px;
+    padding-left: 475px;
+}
+
+#subscribe h1{
+    font-weight: 700;
+    font-size: 45px;
+}
+
+#email{
+    height: 25px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    padding: 15px 15px 10px;
+    margin-top: 29px;
+}
+
+#subs-btn{
+    height: 51px;
+    color: white;
+    background-color: #005FAC;
+    margin-top: 23px;
+}
+/* footer style end */
