@@ -65,7 +65,7 @@ header
 /* story section style end */
 
 /* plans section style start */
-#heading-style{
+.title{
     text-align: center;
     font-weight: 1200;
     font-size: 75px;
@@ -117,7 +117,7 @@ header
 /* contact section style start */
 #contact{
     height: 300px;
-    margin: 75px 175px 57px 225px;
+    margin: 75px 175px 175px 225px;
     background-image:linear-gradient(to right, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(../assets/images/watch.png);
     background-repeat: no-repeat;
     border-radius: 10px;
@@ -136,3 +136,29 @@ header
     margin-left: 75px;
 }
 /* contact section style end */
+
+/* visit section style start */
+#visit{
+    height: 300px;
+    margin: 75px 175px 75px 225px;
+    background-image:linear-gradient(to right, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    background-repeat: no-repeat;
+    border: 3px solid black;;
+    border-radius: 10px;
+}
+
+#links{
+    padding: 35px 0px 0px 175px;
+}
+
+#links a{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    text-decoration: none;
+} 
+
+#links a:hover{
+    color: black;
+} 
+/* visit section style end */
